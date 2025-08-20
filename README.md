@@ -88,9 +88,7 @@ A consumer goods company notices flat revenue growth despite strong bike sales. 
 ├── executive_sales_overview.png # Dashboard screenshot
 └── README.md # Project documentation
 
-yaml
-Copia
-Modifica
+
 
 ---
 
